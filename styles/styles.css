@@ -309,40 +309,40 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 90%;
+  width: 30%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 80%;
+  width: 20%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 60%;
+  width: 10%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 60%;
+  width: 5%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 60%;
+  width: 5%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .django {
-  width: 60%;
+  width: 5%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .flask {
-  width: 60%;
+  width: 5%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+  width: 15%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .php {
-  width: 70%;
+  width: 20%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .mysql {
-  width: 90%;
+  width: 15%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .bash {
-  width: 50%;
+  width: 15%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .webvulnerabilities {
-  width: 90%;
+  width: 30%;
 }
 
 .stat-title {
